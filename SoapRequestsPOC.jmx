@@ -306,7 +306,7 @@
         <stringProp name="filename"></stringProp>
       </ResultCollector>
       <hashTree/>
-      <BackendListener guiclass="BackendListenerGui" testclass="BackendListener" testname="Backend Listener" enabled="false">
+      <BackendListener guiclass="BackendListenerGui" testclass="BackendListener" testname="Backend Listener" enabled="true">
         <elementProp name="arguments" elementType="Arguments" guiclass="ArgumentsPanel" testclass="Arguments" enabled="true">
           <collectionProp name="Arguments.arguments">
             <elementProp name="testName" elementType="Argument">
@@ -316,7 +316,7 @@
             </elementProp>
             <elementProp name="connectionString" elementType="Argument">
               <stringProp name="Argument.name">connectionString</stringProp>
-              <stringProp name="Argument.value">InstrumentationKey=379ed55a-1ab4-4346-a5ac-9eefe7b712e7;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/</stringProp>
+              <stringProp name="Argument.value">InstrumentationKey=443321df-495c-40c4-9b4f-cb10ae82e350;IngestionEndpoint=https://westus2-2.in.applicationinsights.azure.com/</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="liveMetrics" elementType="Argument">
